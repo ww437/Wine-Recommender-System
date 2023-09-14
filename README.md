@@ -22,3 +22,7 @@ The goal of this project is to create a system using machine learning which prov
 *Modeling*: This file contains the modeling and functions used to create different types of recommender systems. Regression and classification algorithms are used for content-based recommender systems. Cosine similarity calculations are used for a content-based recommender system as well as a case-based recommender system. A constraint-based recommender system is also included.
 
 *Modeling - Clustering*: This file contains K Means clustering. 
+
+*Final Presentation 8.28.23*: This is the powerpoint presentation our team presented to classmates. 
+
+*Final Report*: This file is the final report writeup of our project. 
